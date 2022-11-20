@@ -22,28 +22,64 @@ let updateTimer;
 
 const music_list = [
     {
-        img : 'images/stay.png',
-        name : 'Stay',
-        artist : 'The Kid LAROI, Justin Bieber',
-        music : 'music/stay.mp3'
+        img : 'images/1.jpg',
+        name : 'It will rain',
+        artist : 'Bruno mars',
+        music : 'music/br.mp3'
     },
     {
-        img : 'images/fallingdown.jpg',
-        name : 'Falling Down',
-        artist : 'Wid Cards',
-        music : 'music/fallingdown.mp3'
+        img : 'images/1.jpg',
+        name : 'Shee well be loved',
+        artist : 'Maroon 5',
+        music : 'music/mr.mp3'
     },
     {
-        img : 'images/faded.png',
-        name : 'Faded',
-        artist : 'Alan Walker',
-        music : 'music/Faded.mp3'
+        img : 'images/1.jpg',
+        name : 'When Youre Gone ',
+        artist : 'Avril Lavigne',
+        music : 'music/av.mp3'
+    },
+	{
+        img : 'images/1.jpg',
+        name : 'Perfect OKTA Wkwk',
+        artist : 'Ed sheeran',
+        music : 'music/ed.mp3'
+    },
+	{
+        img : 'images/1.jpg',
+        name : 'Imagination',
+        artist : 'Shawn Mandes',
+        music : 'music/sm.mp3'
+    },
+	{
+        img : 'images/1.jpg',
+        name : 'im yours',
+        artist : 'Jason mraz',
+        music : 'music/js.mp3'
+    },
+	{
+        img : 'images/1.jpg',
+        name : 'Until I Found You',
+        artist : 'Stephen Sanchez',
+        music : 'music/ss.mp3'
+    },
+	{
+        img : 'images/1.jpg',
+        name : 'Happier',
+        artist : 'Olivia rodrigo',
+        music : 'music/or.mp3'
+    },
+	{
+        img : 'images/1.jpg',
+        name : 'Magic',
+        artist : 'Rude',
+        music : 'music/mg.mp3'
     },
     {
-        img : 'images/ratherbe.jpg',
-        name : 'Rather Be',
-        artist : 'Clean Bandit',
-        music : 'music/Rather Be.mp3'
+        img : 'images/1.jpg',
+        name : 'friendly',
+        artist : 'bby',
+        music : 'music/bby.mp3'
     }
 ];
 
